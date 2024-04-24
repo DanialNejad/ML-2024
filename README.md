@@ -55,3 +55,14 @@ This project is open-sourced under the MIT License. See the [LICENSE](LICENSE) f
 ## Contact
 
 Should you have any questions, comments, or suggestions, please contact [Danial Nejad](danialabdollahinejad@gmail.com).
+- [![LinkedIn][1.1]][1] [LinkedIn Profile](https://www.linkedin.com/in/danial-abdollahi-nejad-883614156)
+
+
+<!-- Icons -->
+
+[1.1]: https://i.stack.imgur.com/gVE0j.png (linkedin icon without padding)
+
+
+<!-- Links to your social media accounts -->
+
+[1]: https://www.linkedin.com/in/danial-abdollahi-nejad-883614156
