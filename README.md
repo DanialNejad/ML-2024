@@ -29,4 +29,29 @@ source venv/bin/activate  # On Windows use `venv\Scripts\activate`
 
 # Install the requirements
 pip install -r requirements.txt
+```
+## Dependencies
 
+The following libraries are required to run the projects:
+
+- Python 3.8 or higher
+- NumPy
+- pandas
+- scikit-learn
+- matplotlib
+- seaborn
+- Jupyter Notebook or JupyterLab
+
+All the dependencies are listed in the `requirements.txt` file.
+
+## Contributing
+
+This repository is primarily for educational purposes and personal reference. If you would like to contribute to the projects, your suggestions for improvement or corrections are welcome. Please feel free to submit a pull request or open an issue.
+
+## License
+
+This project is open-sourced under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+## Contact
+
+Should you have any questions, comments, or suggestions, please contact [Danial Nejad](danialabdollahinejad@gmail.com).
