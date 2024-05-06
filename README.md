@@ -19,15 +19,12 @@ Each project in this repository demonstrates the application of various machine 
 To run the projects on your local machine, you will need to install the necessary Python packages. It is recommended to use a virtual environment:
 
 ```bash
-# Clone the repository
 git clone https://github.com/DanialNejad/ML-2024.git
 cd ML-2024
 
-# Create a virtual environment (optional)
 python -m venv venv
 source venv/bin/activate  # On Windows use `venv\Scripts\activate`
 
-# Install the requirements
 pip install -r requirements.txt
 ```
 ## Dependencies
