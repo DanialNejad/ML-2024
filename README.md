@@ -5,17 +5,10 @@ Welcome to the repository for the Machine Learning Course Projects at KNTU Unive
 
 ## 📘 Course Information
 
-<<<<<<< Updated upstream
-- **Instructor:** [Dr.Mahdi Aliyari-Shoorehdeli]
-- **TA Lead:** [MJ Ahmadi](https://github.com/MJAHMADEE)
-- [Course Website](https://apac.ee.kntu.ac.ir/academic/courses/)
-- [Course Github](https://github.com/MJAHMADEE/MachineLearning2024W)
-=======
 - **Instructor:** [Dr. Mahdi Aliyari-Shoorehdeli]
 - **TA Lead:** [MJ Ahmadi](https://github.com/MJAHMADEE)
 - [Course Website](https://apac.ee.kntu.ac.ir/academic/courses/)
 - [Course GitHub](https://github.com/MJAHMADEE/MachineLearning2024W)
->>>>>>> Stashed changes
 
 ## 📝 Projects Overview
 
@@ -28,11 +21,7 @@ Each project in this repository demonstrates the application of various machine 
 
 ### 🌟 Mini Project 1
 
-<<<<<<< Updated upstream
-**Mini-Project 1** involves an in-depth analysis and visualization of datasets. The project includes data exploration, statistical analysis, and various visualizations such as histograms, boxplots, and correlation heatmaps to understand the relationships and distributions of features.
-=======
 **Dataset Analysis and Visualization**
->>>>>>> Stashed changes
 
 - **Overview:** In-depth analysis and visualization of datasets.
 - **Key Tasks:**
