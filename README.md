@@ -11,8 +11,10 @@ This repository contains the collection of projects and assignments completed du
 
 Each project in this repository demonstrates the application of various machine learning techniques and algorithms studied throughout the course. The projects are as follows:
 
-- **Project 1:** [mini Project 1]
-
+1. [Mini Project 1](#mini-project-1)
+2. [Mini Project 2](#mini-project-2)
+3. [Mini Project 3](#mini-project-3)
+4. [Mini Project 4](#mini-project-4)
 
 ## Installation and Usage
 
