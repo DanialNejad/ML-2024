@@ -61,5 +61,5 @@ This section involves the implementation and evaluation of different machine lea
 - Implementing and evaluating Gaussian Naive Bayes and Gradient Boosting Classifiers
 - Visualizing the classification results and confusion matrices
 
-### Report
+
 For more detailed information on the implementation, evaluation, and analysis of each question, please refer to the report file provided in the repository.
