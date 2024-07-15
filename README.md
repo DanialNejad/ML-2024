@@ -73,21 +73,21 @@ Each project in this repository demonstrates the application of various machine 
 To run the projects on your local machine, follow these steps:
 
 1. **Clone the repository:**
-   \`\`\`bash
+```bash
    git clone https://github.com/DanialNejad/ML-2024.git
    cd ML-2024
-   \`\`\`
+```
 
 2. **Set up a virtual environment:**
-   \`\`\`bash
+```bash
    python -m venv venv
    source venv/bin/activate  # On Windows use `venv\Scripts\activate`
-   \`\`\`
+```
 
 3. **Install the dependencies:**
-   \`\`\`bash
+```bash
    pip install -r requirements.txt
-   \`\`\`
+```
 
 ## 📦 Dependencies
 
