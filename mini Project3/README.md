@@ -1,4 +1,4 @@
-# README for Mini Project 3
+# ML 2024 Mini Project 3
 
 Welcome to the Mini Project 3 repository. This project focuses on implementing and evaluating various machine learning models on different datasets, emphasizing data preprocessing, model training, evaluation, and visualization.
 
@@ -8,7 +8,7 @@ Welcome to the Mini Project 3 repository. This project focuses on implementing a
 2. [Requirements](#requirements)
 3. [Q1: Iris Dataset Analysis and SVM Models](#q1-iris-dataset-analysis-and-svm-models)
 4. [Q2: Credit Card Fraud Detection](#q2-credit-card-fraud-detection)
-5. [Report](#report)
+
 
 ## Overview
 
