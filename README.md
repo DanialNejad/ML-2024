@@ -5,6 +5,7 @@ This repository contains the collection of projects and assignments completed du
 ## Course Information
 
 - **Instructor:** [Dr.Mahdi Aliyari-Shoorehdeli]
+- **TA Lead:** [MJ Ahmadi](https://github.com/MJAHMADEE)
 - [Course Website](https://apac.ee.kntu.ac.ir/academic/courses/)
 
 ## Projects Overview
