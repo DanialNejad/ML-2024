@@ -18,7 +18,7 @@ Each project in this repository demonstrates the application of various machine 
 4. [Mini Project 4](#mini-project-4)
 
 
-**Mini-Project 1** involves an in-depth analysis and visualization of the Iris dataset. The project includes data exploration, statistical analysis, and various visualizations such as histograms, boxplots, and correlation heatmaps to understand the relationships and distributions of features.
+**Mini-Project 1** involves an in-depth analysis and visualization of datasets. The project includes data exploration, statistical analysis, and various visualizations such as histograms, boxplots, and correlation heatmaps to understand the relationships and distributions of features.
 
 **Mini-Project 2** focuses on detecting faults in bearing data. This project involves loading and preprocessing the dataset, extracting statistical features, normalizing the data, and applying machine learning models such as Multi-Layer Perceptron (MLP) neural networks to classify normal and faulty bearings. It also includes hyperparameter tuning, training different models, and evaluating their performance through accuracy, confusion matrices, and classification reports.
 
