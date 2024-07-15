@@ -110,5 +110,4 @@ Dataset: Credit card transactions dataset.
 - Visualizing the recall and accuracy for different SMOTE strategies.
 
 
-### Report
 For more detailed information on the implementation, results, and analysis, please refer to the accompanying report file.
