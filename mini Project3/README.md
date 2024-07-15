@@ -14,7 +14,7 @@ Welcome to the Mini Project 3 repository. This project focuses on implementing a
 
 This project is divided into two main questions (Q1 and Q2), each focusing on different machine learning tasks:
 1. Analyzing the Iris dataset and implementing Support Vector Machine (SVM) models.
-2. Detecting credit card fraud using neural networks and SMOTE for data balancing.(extension://bfdogplmndidlpjfhoijckpakkdjkkil/pdf/viewer.html?file=https%3A%2F%2Farxiv.org%2Fpdf%2F1908.11553)
+2. Detecting credit card fraud using neural networks and SMOTE for data balancing.(https://arxiv.org/abs/1908.11553)
 
 For more detailed information, please refer to the accompanying report file.
 
