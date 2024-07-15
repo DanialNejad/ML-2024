@@ -7,6 +7,7 @@ This repository contains the collection of projects and assignments completed du
 - **Instructor:** [Dr.Mahdi Aliyari-Shoorehdeli]
 - **TA Lead:** [MJ Ahmadi](https://github.com/MJAHMADEE)
 - [Course Website](https://apac.ee.kntu.ac.ir/academic/courses/)
+- [Course Github](https://github.com/MJAHMADEE/MachineLearning2024W)
 
 ## Projects Overview
 
