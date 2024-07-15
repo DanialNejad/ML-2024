@@ -30,6 +30,7 @@ Ensure you have the following installed:
 Install the required packages:
 ```bash
 pip install pandas numpy matplotlib seaborn scikit-learn statsmodels gdown mlxtend drawdata
+```
 
 Question 1 (Q1)
 Q1 focuses on generating a synthetic dataset, visualizing it, and applying Logistic Regression and SGDClassifier models. It involves the following steps:
