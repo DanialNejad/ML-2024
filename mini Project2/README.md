@@ -1,4 +1,4 @@
-# README for Mini Project 2
+# ML-2024  Mini Project 2
 
 Welcome to Mini Project 2 repository. This project involves the implementation and evaluation of various machine learning models on different datasets. The project is divided into four questions, each focusing on different aspects of machine learning and data analysis.
 
