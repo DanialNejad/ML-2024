@@ -1,4 +1,4 @@
-# README for Mini Project 4
+# ML 2024 Mini Project 4
 
 Welcome to the Mini Project 4 repository. This project focuses on training and evaluating Deep Q-Network (DQN) and Double Deep Q-Network (DDQN) agents on the Lunar Lander environment using different batch sizes.
 
