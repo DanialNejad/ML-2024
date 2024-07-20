@@ -40,18 +40,15 @@ This project demonstrates the application of reinforcement learning for controll
 ## Usage
 1. Train the model:
     ```bash
-    python train_ddpg.py
+    python learn_CDPR.py
     ```
 
 2. Evaluate the model:
     ```bash
-    python evaluate_ddpg.py
+    python test_CDPR.py
     ```
 
-3. Generate visualizations:
-    ```bash
-    python generate_plots.py
-    ```
+
 
 ## Environment Details
 The environment for the CDPR simulation is built using MuJoCo. Key features of the environment include:
